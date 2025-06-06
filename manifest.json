@@ -1,0 +1,35 @@
+{
+  "name": "Controle de Estacionamento",
+  "short_name": "Estacionamento",
+  "description": "Aplicativo para controle de estacionamento do Hospital",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1A1A1A",
+  "theme_color": "#00BFFF",
+  "icons": [
+    {
+        "src": "https://raw.githubusercontent.com/badbreak/icones/refs/heads/main/icon-192x192.png", // <-- COLE SUA URL RAW AQUI
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/badbreak/icones/refs/heads/main/icon-192x192.png", // <-- COLE SUA URL RAW AQUI
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/badbreak/icones/refs/heads/main/icon-512x512.png", // <-- COLE SUA URL RAW AQUI
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/badbreak/icones/refs/heads/main/icon-512x512.png", // <-- COLE SUA URL RAW AQUI
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+  ]
+}
